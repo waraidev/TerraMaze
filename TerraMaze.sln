@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E495D0AB-2963-9FFA-31A2-D23A02130FE7}") = "TerraMaze", "Assembly-CSharp-firstpass.csproj", "{33563E25-6DB6-CCB4-2F9B-E279B1CD9CC6}"
+EndProject
+Project("{E495D0AB-2963-9FFA-31A2-D23A02130FE7}") = "TerraMaze", "Assembly-CSharp.csproj", "{94D4A349-3AF9-1910-1BBE-38A3EAC6CD3F}"
+EndProject
+Project("{E495D0AB-2963-9FFA-31A2-D23A02130FE7}") = "TerraMaze", "Assembly-CSharp-Editor.csproj", "{1C0C3E0E-0B72-66E0-2D58-E055BD14B8B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33563E25-6DB6-CCB4-2F9B-E279B1CD9CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33563E25-6DB6-CCB4-2F9B-E279B1CD9CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33563E25-6DB6-CCB4-2F9B-E279B1CD9CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33563E25-6DB6-CCB4-2F9B-E279B1CD9CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D4A349-3AF9-1910-1BBE-38A3EAC6CD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D4A349-3AF9-1910-1BBE-38A3EAC6CD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D4A349-3AF9-1910-1BBE-38A3EAC6CD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D4A349-3AF9-1910-1BBE-38A3EAC6CD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0C3E0E-0B72-66E0-2D58-E055BD14B8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0C3E0E-0B72-66E0-2D58-E055BD14B8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0C3E0E-0B72-66E0-2D58-E055BD14B8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0C3E0E-0B72-66E0-2D58-E055BD14B8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
